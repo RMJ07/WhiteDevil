@@ -1,10 +1,10 @@
 {
-    "name": "WhiteDevil",
-    "description": "WhiteDevil- Whatsapp UserBot",
+    "name": "Saraswathi",
+    "description": "RMJ07- Whatsapp UserBot",
     "logo": "https://i.imgur.com/kB30S41.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://www.github.com/terror-boy/WhiteDevil",
-    "website":   "https://www.github.com/terror-boy/WhiteDevil",
+    "repository": "https://www.github.com/RMJ07/Saraswathi",
+    "website":   "https://www.github.com/RMJ07/Saraswathi",
     "success_url": "https://www.github.com/terror-boy",
     "stack": "container",
     "env": {
